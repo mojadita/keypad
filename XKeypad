@@ -1,0 +1,17 @@
+XKeypad*geometry: 300x400
+*asterisk.background: DarkSlateGrey
+*hash.background: DarkSlateGrey
+*PushButtonGadget.background: yellow
+*font: -adobe-helvetica-bold-o-normal--24-240-75-75-p-138-iso8859-1
+*b0.labelString: 0 _
+*b1.labelString: 1 abc
+*b2.labelString: 2 def
+*b3.labelString: 3 ghi
+*b4.labelString: 4 jkl
+*b5.labelString: 5 mno
+*b6.labelString: 6 pqr
+*b7.labelString: 7 stu
+*b8.labelString: 8 vw
+*b9.labelString: 9 xyz
+*basterisk.labelString: *
+*bhash.labelString: #
