@@ -4,14 +4,14 @@ XKeypad*geometry: 300x400
 *PushButtonGadget.background: yellow
 *font: -adobe-helvetica-bold-o-normal--24-240-75-75-p-138-iso8859-1
 *b0.labelString: 0 _
-*b1.labelString: 1 abc
-*b2.labelString: 2 def
-*b3.labelString: 3 ghi
-*b4.labelString: 4 jkl
-*b5.labelString: 5 mno
-*b6.labelString: 6 pqr
-*b7.labelString: 7 stu
-*b8.labelString: 8 vw
-*b9.labelString: 9 xyz
+*b1.labelString: 1\nabc
+*b2.labelString: 2\ndef
+*b3.labelString: 3\nghi
+*b4.labelString: 4\njkl
+*b5.labelString: 5\nmno
+*b6.labelString: 6\npqr
+*b7.labelString: 7\nstu
+*b8.labelString: 8\nvw
+*b9.labelString: 9\nxyz
 *basterisk.labelString: *
 *bhash.labelString: #
