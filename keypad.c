@@ -100,7 +100,7 @@ main(int argc, char **argv)
 
 	struct but_desc *p;
 	for (p = pos_tab; p->name; ++p) {
-		printf(F("Creando botón '%s'@{(%d,%d),(%d,%d)}\n"),
+		printf(F("Creating button '%s'@{(%d,%d),(%d,%d)}\n"),
 			p->name, p->left_x, p->top_y, p->right_x, p->bot_y);
 		Widget button =
 			XtVaCreateManagedWidget(

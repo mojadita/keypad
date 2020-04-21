@@ -2,7 +2,7 @@ XKeypad*geometry: 300x400
 *asterisk.background: DarkSlateGrey
 *hash.background: DarkSlateGrey
 *PushButtonGadget.background: yellow
-*font: -adobe-helvetica-bold-o-normal--24-240-75-75-p-138-iso8859-1
+*font: courb12
 *b0.labelString: 0 _
 *b1.labelString: 1\nabc
 *b2.labelString: 2\ndef
