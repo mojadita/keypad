@@ -1,4 +1,4 @@
-XKeypad*geometry: 300x400
+XKeypad*geometry: 900x240
 *asterisk.background: DarkSlateGrey
 *hash.background: DarkSlateGrey
 *PushButtonGadget.background: yellow
